@@ -24,3 +24,4 @@
 - 공부 일자 : 2023.4.3
 
 ![](https://images.velog.io/images/513sojin/post/fac1b4e5-c8c5-4d05-9e98-0bb3fb0534e7/bfs.png)
+![기초 구현 관련 이미지](https://www.fun-coding.org/00_Images/BFSDFS.png)
